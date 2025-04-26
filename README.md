@@ -1,5 +1,5 @@
 # Robot War Game
-This is an assignment I had done with my university groupmates in 2024 using C++. It is a Robot War Game that spawns several types of robots in a mxn grid. The robots have different movement based on their type, and they will move randomly in the grid and destroy each other. The game finishes when the battlefield (grid) is left with one robot only.
+This is an assignment I had done with my university groupmates in 2024 using C++. It is a text-based Robot War Game that spawns several types of robots in a mxn grid. The robots have different movement based on their type, and they will move randomly in the grid and destroy each other. The game finishes when the battlefield (grid) is left with one robot only. Features including grid creation, robot placement, status showing, battlefield (grid with robots) updating etc.
 
 ## DISCLAIMER
  ***FOR RESEARCH PURPOSES ONLY. LEGAL ACTIONS WILL BE TAKEN IF MISUSED.***
